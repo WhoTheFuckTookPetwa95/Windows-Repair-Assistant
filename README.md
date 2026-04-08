@@ -5,6 +5,17 @@ Idk just repairs your windows without needing BIOS.
 do **NOT** close the command prompt while the app is open, just minimize it as it is just the code mainframe.
 **!!! You need python for this app. Install python here: https://www.python.org/downloads !!!**
 
+# How to run the source code:
+
+Install Pygame: This app needs the pygame library to show the window. Open your Command Prompt and type:
+
+pip install pygame
+Run the script: Right-click main.py and select "Open with Python", or run this command in your terminal:
+
+python main.py
+Admin Rights: The app will automatically ask for Administrator permission so it can run the Windows repair commands.
+(also please credit me if u copy, modify, merge, publish, distribute, sublicense or sell copies of the code pls!)
+
 # Random law bs lol
 
 MIT License
